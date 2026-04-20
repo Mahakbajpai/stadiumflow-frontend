@@ -4,7 +4,7 @@ A real-time smart stadium experience and crowd management platform. Built exclus
 
 ## 🚀 Live Demo & Deployment Note to Judges
 
-**Live Frontend (Vercel):** [https://stadiumflow-frontend.vercel.app/]
+**Live Frontend (Google cloud run):** [https://stadiumflow-frontend-858857697522.us-central1.run.app/]
 **Live Backend (Render):** [https://stadiumflow-backend.onrender.com]
 
 > **⚠️ Important Note regarding Google Cloud Run Deployment:**
